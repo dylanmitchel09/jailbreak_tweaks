@@ -1,7 +1,6 @@
 # Zebra Sources List
 deb https://getzbra.com/repo/ ./
 
-# Added at 2020-05-25 16:02:23 +0000
 deb https://yazxoi.yourepo.com/ ./
 deb https://repo.dynastic.co/ ./
 deb https://repo.cpdigitaldarkroom.com/ ./
