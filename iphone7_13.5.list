@@ -1,6 +1,4 @@
-# Zebra Sources List
 deb https://getzbra.com/repo/ ./
-
 deb https://yazxoi.yourepo.com/ ./
 deb https://repo.dynastic.co/ ./
 deb https://repo.cpdigitaldarkroom.com/ ./
@@ -35,12 +33,14 @@ FoxFort Tools (com.foxfort.foxforttools) v1.1.0 by FoxfortMobile via Packix
 libfoxfortutils (com.foxfort.libfoxfortutils) v1.0.19 by FoxfortMobile via Packix
 PortraitXI (com.foxfort.portraitxi) v3.2.0 by FoxfortMobile via Packix
 OTADisabler (com.ichitaso.otadisabler) v0.1-7 by ichitaso via ichitaso
+CCModules (com.jailbreak365.safeccmodules) v1.5-1 by jailbreak365  via BigBoss
 GoodWiFi (com.julioverne.goodwifi) v0.0~beta5a by julioverne via julioverne
 Locale Profiles in UTF-8 (com.linusyang.localeutf8) v1.0-1 by Linus Yang  via BigBoss
 ColorMeNotifs (com.mrgcgamer.colormenotifs) v1.4.2 by MrGcGamer via Packix
 Amandus (com.muirey03.amandus) v1.0.1 by Muirey03 via Packix
 NiceBarX(iOS13) (com.niceios.nicebarx13) v1.0.2.2-153 by niceios via NiceiOS
 NiceHelper (com.niceios.nicehelper) v2.6-1 by niceios via NiceiOS
+CCSupport (com.opa334.ccsupport) v1.2.2 by opa334  via BigBoss
 half (com.peterdev.half) v1.0.2 by Soongyu Kwon & Ayden Leppert via Packix
 Cylinder (com.r333d.cylinder) v1.1 by Reed Weichler  via BigBoss
 RocketBootstrap (com.rpetrich.rocketbootstrap) v1.0.9 by Ryan Petrich  via BigBoss
@@ -48,7 +48,7 @@ A-Font (com.rpgfarm.a-font) v1.7.1 by Baw Appie  via MERONA Repository
 Little11 (com.ryannair05.little11) v1.4.0 by Ryan Nair via Packix
 PullToRespring (com.sassoty.pulltorespring) v1.2 by Noah Saso  via BigBoss
 Substrate Safe Mode (com.saurik.substrate.safemode) v0.9.6003 by Jay Freeman (saurik)  via Bingner/Elucubratus
-libsparkcolourpicker (com.spark.libsparkcolourpicker) v1.0.0 by SparkDev via Dynastic Repo
+libsparkcolourpicker (com.spark.libsparkcolourpicker) v1.0.0 by Spark via SparkDev
 SnowBoard (com.spark.snowboard) v1.2.94~Beta2 by Spark via SparkDev
 Filza File Manager (com.tigisoftware.filza) v3.7.5-9 by TIGI Software  via BigBoss
 SimpleLS 2 (com.xcxiao.simplels2) v1.3.1-6 by XCXiao via Packix
