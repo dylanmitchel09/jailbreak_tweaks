@@ -1,22 +1,17 @@
 deb https://getzbra.com/repo/ ./
-deb https://yazxoi.yourepo.com/ ./
+deb https://rpetri.ch/repo/ ./
 deb https://repo.dynastic.co/ ./
 deb https://repo.cpdigitaldarkroom.com/ ./
 deb https://repo.packix.com/ ./
+deb https://yazxoi.yourepo.com/ ./
 deb https://repo.chariz.com/ ./
-deb https://deedledoodles.yourepo.com/ ./
 deb http://apt.thebigboss.org/repofiles/cydia/ stable main
 deb https://apt.bingner.com/ ios/1676.10 main
 deb https://julioverne.github.io/ ./
-deb https://sparkdev.me/ ./
-deb https://cydia.ichitaso.com/ ./
 deb http://apt.modmyi.com/ stable main
 deb https://repo.rpgfarm.com/ ./
 deb http://repo.niceios.com/ ./
 deb http://cydia.zodttd.com/repo/cydia/ stable main
-deb https://repo.twickd.com/ ./
-deb https://dev4i.yourepo.com/ ./
-deb https://udevsharold.github.io/repo/ ./
 deb https://creaturecoding.com/repo/ ./
 
 AppList (applist) v1.5.16 by Ryan Petrich  via BigBoss
@@ -28,21 +23,16 @@ Bourne-Again SHell (bash) v5.0.3-2 by Unknown via Bingner/Elucubratus
 Berkeley DB (berkeleydb) v6.2.32-1 by Unknown via Bingner/Elucubratus
 bzip2 (bzip2) v1.0.6-1 by Unknown via Bingner/Elucubratus
 CA Certs (ca-certificates) v0.0.2 by Unknown via Bingner/Elucubratus
-Flame (com.aditkamath.flame) v1.3 by Adit Kamath  via BigBoss
+Snappy (com.bingner.snappy) v1.3.0 by Sam Bingner  via Bingner/Elucubratus
 Viola (com.bousrih.viola) v1.9.5 by Bousrih  via Packix
 Barmoji (com.cpdigitaldarkroom.barmoji) v2020.3 by CP Digital Darkroom  via CP Digital Darkroom
 libCSPreferences (com.creaturecoding.libcspreferences) v1.4.2 by CreatureSurvive  via https://creaturecoding.com/repo/
 shuffle (com.creaturecoding.shuffle) v1.2.8 by CreatureSurvive  via https://creaturecoding.com/repo/
-Substitute (com.ex.substitute) v0.1.13 by comex  via Bingner/Elucubratus
 FoxFort Tools (com.foxfort.foxforttools) v1.1.0 by FoxfortMobile via Packix
 libfoxfortutils (com.foxfort.libfoxfortutils) v1.0.19 by FoxfortMobile via Packix
-PortraitXI (com.foxfort.portraitxi) v3.3.0 by FoxfortMobile via Packix
-OTADisabler (com.ichitaso.otadisabler) v0.1-7 by ichitaso via ichitaso
-CCModules (com.jailbreak365.safeccmodules) v1.5-1 by jailbreak365  via BigBoss
+PortraitXI (com.foxfort.portraitxi) v3.3.1 by FoxfortMobile via Packix
 GoodWiFi (com.julioverne.goodwifi) v0.0~beta5a by julioverne via julioverne
 Locale Profiles in UTF-8 (com.linusyang.localeutf8) v1.0-1 by Linus Yang  via BigBoss
-ColorMeNotifs (com.mrgcgamer.colormenotifs) v1.4.2 by MrGcGamer via Packix
-Amandus (com.muirey03.amandus) v1.0.1 by Muirey03 via Packix
 Flow (com.muirey03.flow) v1.1.5 by Muirey03 via Packix
 libMRYIPC (com.muirey03.libmryipc) v1.0 by Muirey03 via Dynastic Repo
 NiceBarX(iOS13) (com.niceios.nicebarx13) v1.0.2.2-153 by niceios via NiceiOS
@@ -51,19 +41,20 @@ Magma Evo (com.noisyflake.magmaevo) v2.0.1 by NoisyFlake  via Chariz
 CCSupport (com.opa334.ccsupport) v1.2.2 by opa334  via BigBoss
 half (com.peterdev.half) v1.0.2 by Soongyu Kwon & Ayden Leppert via Packix
 Cylinder (com.r333d.cylinder) v1.1 by Reed Weichler  via BigBoss
-RocketBootstrap (com.rpetrich.rocketbootstrap) v1.0.9 by Ryan Petrich  via BigBoss
+RocketBootstrap (com.rpetrich.rocketbootstrap) v1.0.9 by Ryan Petrich  via rpetrich
 A-Font (com.rpgfarm.a-font) v1.7.1 by Baw Appie  via MERONA Repository
 Little11 (com.ryannair05.little11) v1.4.0 by Ryan Nair via Packix
 PullToRespring (com.sassoty.pulltorespring) v1.2 by Noah Saso  via BigBoss
 Substrate Safe Mode (com.saurik.substrate.safemode) v0.9.6003 by Jay Freeman (saurik)  via Bingner/Elucubratus
-libsparkcolourpicker (com.spark.libsparkcolourpicker) v1.0.0 by Spark via SparkDev
-SnowBoard (com.spark.snowboard) v1.2.94~Beta2 by Spark via SparkDev
+libsparkcolourpicker (com.spark.libsparkcolourpicker) v1.0.0 by SparkDev via Dynastic Repo
+SnowBoard (com.spark.snowboard) v1.2.86~Beta2 by Spark & Dennis D. Bednarz via Packix
 Filza File Manager (com.tigisoftware.filza) v3.7.5-9 by TIGI Software  via BigBoss
 SugarCane13 (com.yourepo.yazxoi.sugarcane13) v1.2-3 by iOS Creatix, kasiimh1, baptistecdr  via Yazxoi Source - YouRepo
 Core Utilities (coreutils) v8.31-1 by Unknown via Bingner/Elucubratus
 Core Utilities (/bin) (coreutils-bin) v8.31-1 by Unknown via Bingner/Elucubratus
 CrashReporter (crash-reporter) v1.16.0-1 by Lance Fetters (ashikase)  via BigBoss
 Cydia Installer (cydia) v1.1.33 by Jay Freeman (saurik)  via Bingner/Elucubratus
+Cydia Lists (cydia-lists) v0.1 by Unknown via Local Repository
 Cydia Translations (cydia-lproj) v1.1.32~b1 by Jay Freeman (saurik)  via Bingner/Elucubratus
 Darwin Tools (darwintools) v1.1-1 by Unknown via Bingner/Elucubratus
 Debian Utilities (debianutils) v4.8.6-1 by Unknown via Bingner/Elucubratus
@@ -74,7 +65,6 @@ Essential (essential) v0-2 by Unknown via Bingner/Elucubratus
 file (file) v5.35-2 by Unknown via Bingner/Elucubratus
 Find Utilities (findutils) v4.6.0-2 by Unknown via Bingner/Elucubratus
 iPhone Firmware (/sbin) (firmware-sbin) v0-1 by Unknown via Bingner/Elucubratus
-Gawk (gawk) v4.2.1-1 by Unknown via Bingner/Elucubratus
 GNU Cryptography (gcrypt) v1.8.3-1 by Unknown via Bingner/Elucubratus
 gettext (gettext) v0.19.8-1 by Unknown via Bingner/Elucubratus
 GnuPG (gnupg) v2.2.11-2 by Unknown via Bingner/Elucubratus
@@ -102,6 +92,7 @@ libtasn1 (libtasn1) v4.13-1 by Unknown via Bingner/Elucubratus
 libunistring (libunistring) v0.9.10-1 by Unknown via Bingner/Elucubratus
 LZ4 (lz4) v1.7.5-1 by Unknown via Bingner/Elucubratus
 LZMA Utils (lzma) v2:4.32.7-2 by Unknown via Bingner/Elucubratus
+Cydia Substrate (mobilesubstrate) v0.9.7101 by Jay Freeman (saurik)  via Bingner/Elucubratus
 New Curses (ncurses) v6.1+20181013-1 by Unknown via Bingner/Elucubratus
 New Curses (ncurses5-libs) v5.9-1 by Unknown via Bingner/Elucubratus
 CallBar XS (iOS 12/13) (net.limneos.callbarxs) v3.2-143 by Elias Limneos  via BigBoss
@@ -112,7 +103,6 @@ TetherMe for iOS 8+ (net.tetherme.tetherme8) v2.0.3 by Sam Bingner  via BigBoss
 Nettle (nettle) v3.4.1-1 by Unknown via Bingner/Elucubratus
 New GNU Portable Threads (npth) v1.6-1 by Unknown via Bingner/Elucubratus
 libswift (stable) (org.swift.libswift) v5.0 by Kabir Oberai  via BigBoss
-libcolorpicker (org.thebigboss.libcolorpicker) v1.6.7 by PixelFire  via BigBoss
 BigBoss Icon Set (org.thebigboss.repo.icons) v1.0 by Unknown via Bingner/Elucubratus
 p11-kit (p11-kit) v0.23.12-1 by Unknown via Bingner/Elucubratus
 7-zip (POSIX) (p7zip) v16.02-1 by Unknown via Bingner/Elucubratus
@@ -126,6 +116,7 @@ Tape Archive (tar) v1.30-2 by Unknown via Bingner/Elucubratus
 UIKit Tools (uikittools) v1.1.17-1 by Unknown via Bingner/Elucubratus
 unrar (unrar) v5.6.4-1 by Unknown via Bingner/Elucubratus
 unzip (unzip) v6.0+deb9u1-1 by Unknown via Bingner/Elucubratus
+wget (wget) v1.19.5-2 by Unknown via Bingner/Elucubratus
 Cephei (ws.hbang.common) v1.15 by HASHBANG Productions  via Chariz
 NewTerm (iOS 10 – 13) (ws.hbang.newterm2) v2.4 by HASHBANG Productions  via Chariz
 Zebra (xyz.willy.zebra) v1.1.9 by Wilson Styres  via Zebra
