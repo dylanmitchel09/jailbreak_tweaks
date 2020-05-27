@@ -15,6 +15,9 @@ deb https://repo.rpgfarm.com/ ./
 deb http://repo.niceios.com/ ./
 deb http://cydia.zodttd.com/repo/cydia/ stable main
 deb https://repo.twickd.com/ ./
+deb https://dev4i.yourepo.com/ ./
+deb https://udevsharold.github.io/repo/ ./
+deb https://creaturecoding.com/repo/ ./
 
 AppList (applist) v1.5.16 by Ryan Petrich  via BigBoss
 APT (apt) v1.8.2-3 by Unknown via Bingner/Elucubratus
@@ -28,16 +31,20 @@ CA Certs (ca-certificates) v0.0.2 by Unknown via Bingner/Elucubratus
 Flame (com.aditkamath.flame) v1.3 by Adit Kamath  via BigBoss
 Viola (com.bousrih.viola) v1.9.5 by Bousrih  via Packix
 Barmoji (com.cpdigitaldarkroom.barmoji) v2020.3 by CP Digital Darkroom  via CP Digital Darkroom
+libCSPreferences (com.creaturecoding.libcspreferences) v1.4.2 by CreatureSurvive  via https://creaturecoding.com/repo/
+shuffle (com.creaturecoding.shuffle) v1.2.8 by CreatureSurvive  via https://creaturecoding.com/repo/
 Substitute (com.ex.substitute) v0.1.13 by comex  via Bingner/Elucubratus
 FoxFort Tools (com.foxfort.foxforttools) v1.1.0 by FoxfortMobile via Packix
 libfoxfortutils (com.foxfort.libfoxfortutils) v1.0.19 by FoxfortMobile via Packix
-PortraitXI (com.foxfort.portraitxi) v3.2.0 by FoxfortMobile via Packix
+PortraitXI (com.foxfort.portraitxi) v3.3.0 by FoxfortMobile via Packix
 OTADisabler (com.ichitaso.otadisabler) v0.1-7 by ichitaso via ichitaso
 CCModules (com.jailbreak365.safeccmodules) v1.5-1 by jailbreak365  via BigBoss
 GoodWiFi (com.julioverne.goodwifi) v0.0~beta5a by julioverne via julioverne
 Locale Profiles in UTF-8 (com.linusyang.localeutf8) v1.0-1 by Linus Yang  via BigBoss
 ColorMeNotifs (com.mrgcgamer.colormenotifs) v1.4.2 by MrGcGamer via Packix
 Amandus (com.muirey03.amandus) v1.0.1 by Muirey03 via Packix
+Flow (com.muirey03.flow) v1.1.5 by Muirey03 via Packix
+libMRYIPC (com.muirey03.libmryipc) v1.0 by Muirey03 via Dynastic Repo
 NiceBarX(iOS13) (com.niceios.nicebarx13) v1.0.2.2-153 by niceios via NiceiOS
 NiceHelper (com.niceios.nicehelper) v2.6-1 by niceios via NiceiOS
 Magma Evo (com.noisyflake.magmaevo) v2.0.1 by NoisyFlake  via Chariz
@@ -52,10 +59,10 @@ Substrate Safe Mode (com.saurik.substrate.safemode) v0.9.6003 by Jay Freeman (sa
 libsparkcolourpicker (com.spark.libsparkcolourpicker) v1.0.0 by Spark via SparkDev
 SnowBoard (com.spark.snowboard) v1.2.94~Beta2 by Spark via SparkDev
 Filza File Manager (com.tigisoftware.filza) v3.7.5-9 by TIGI Software  via BigBoss
-SimpleLS 2 (com.xcxiao.simplels2) v1.3.1-6 by XCXiao via Packix
 SugarCane13 (com.yourepo.yazxoi.sugarcane13) v1.2-3 by iOS Creatix, kasiimh1, baptistecdr  via Yazxoi Source - YouRepo
 Core Utilities (coreutils) v8.31-1 by Unknown via Bingner/Elucubratus
 Core Utilities (/bin) (coreutils-bin) v8.31-1 by Unknown via Bingner/Elucubratus
+CrashReporter (crash-reporter) v1.16.0-1 by Lance Fetters (ashikase)  via BigBoss
 Cydia Installer (cydia) v1.1.33 by Jay Freeman (saurik)  via Bingner/Elucubratus
 Cydia Translations (cydia-lproj) v1.1.32~b1 by Jay Freeman (saurik)  via Bingner/Elucubratus
 Darwin Tools (darwintools) v1.1-1 by Unknown via Bingner/Elucubratus
@@ -74,6 +81,11 @@ GnuPG (gnupg) v2.2.11-2 by Unknown via Bingner/Elucubratus
 GnuTLS (gnutls) v3.5.19-1 by Unknown via Bingner/Elucubratus
 grep (grep) v3.1-1 by Unknown via Bingner/Elucubratus
 gzip (gzip) v1.9-1 by Unknown via Bingner/Elucubratus
+Kalm (hi.my.name.is.ubik.kalm) v1.3.4 by ubik  via Chariz
+libcrashreport (jp.ashikase.libcrashreport) v1.1.0-1 by Lance Fetters (ashikase)  via BigBoss
+libpackageinfo (jp.ashikase.libpackageinfo) v1.1.0.1-1 by Lance Fetters (ashikase)  via BigBoss
+libsymbolicate (jp.ashikase.libsymbolicate) v1.9.0-1 by Lance Fetters (ashikase)  via BigBoss
+TechSupport Framework (jp.ashikase.techsupport) v1.5.0.1-1 by Lance Fetters (ashikase)  via BigBoss
 Launch Daemon Controller (launchctl) v23-1 by Unknown via Bingner/Elucubratus
 Link Identity Editor (ldid) v2:2.1.2+g5420cb5-1 by Jay Freeman (saurik)  via Bingner/Elucubratus
 APT Strict (lib) (libapt) v1.8.2-1 by Unknown via Bingner/Elucubratus
