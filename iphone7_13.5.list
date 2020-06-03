@@ -30,7 +30,7 @@ Barmoji (com.cpdigitaldarkroom.barmoji) v2020.3 by CP Digital Darkroom  via CP D
 libCSPreferences (com.creaturecoding.libcspreferences) v1.4.3 by CreatureSurvive  via https://creaturecoding.com/repo/
 FoxFort Tools (com.foxfort.foxforttools) v1.1.1 by FoxfortMobile via Packix
 libfoxfortutils (com.foxfort.libfoxfortutils) v1.0.20 by FoxfortMobile via Packix
-PortraitXI (com.foxfort.portraitxi) v3.3.1 by FoxfortMobile via Packix
+PortraitXI (com.foxfort.portraitxi) v3.3.2 by FoxfortMobile via Packix
 GoodWiFi (com.julioverne.goodwifi) v0.0~beta5a by julioverne via julioverne
 Locale Profiles in UTF-8 (com.linusyang.localeutf8) v1.0-1 by Linus Yang  via BigBoss
 Flow (com.muirey03.flow) v1.1.6 by Muirey03 via Packix
@@ -42,7 +42,7 @@ half (com.peterdev.half) v1.0.2 by Soongyu Kwon & Ayden Leppert via Packix
 Cylinder (com.r333d.cylinder) v1.1 by Reed Weichler  via BigBoss
 RocketBootstrap (com.rpetrich.rocketbootstrap) v1.0.9 by Ryan Petrich  via rpetrich
 A-Font (com.rpgfarm.a-font) v1.7.1 by Baw Appie  via MERONA Repository
-Little11 (com.ryannair05.little11) v1.4.0 by Ryan Nair via Packix
+Little11 (com.ryannair05.little11) v1.4.0 by Ryan Nair via NiceiOS
 PullToRespring (com.sassoty.pulltorespring) v1.2 by Noah Saso  via BigBoss
 Substrate Safe Mode (com.saurik.substrate.safemode) v0.9.6003 by Jay Freeman (saurik)  via Bingner/Elucubratus
 libsparkcolourpicker (com.spark.libsparkcolourpicker) v1.0.0 by SparkDev via Dynastic Repo
@@ -70,7 +70,7 @@ GnuPG (gnupg) v2.2.11-2 by Unknown via Bingner/Elucubratus
 GnuTLS (gnutls) v3.5.19-1 by Unknown via Bingner/Elucubratus
 grep (grep) v3.1-1 by Unknown via Bingner/Elucubratus
 gzip (gzip) v1.9-1 by Unknown via Bingner/Elucubratus
-Kalm (hi.my.name.is.ubik.kalm) v1.3.4 by ubik  via Chariz
+Kalm (hi.my.name.is.ubik.kalm) v1.4.1 by ubik  via Chariz
 libcrashreport (jp.ashikase.libcrashreport) v1.1.0-1 by Lance Fetters (ashikase)  via BigBoss
 libpackageinfo (jp.ashikase.libpackageinfo) v1.1.0.1-1 by Lance Fetters (ashikase)  via BigBoss
 libsymbolicate (jp.ashikase.libsymbolicate) v1.9.0-1 by Lance Fetters (ashikase)  via BigBoss
@@ -91,6 +91,7 @@ libtasn1 (libtasn1) v4.13-1 by Unknown via Bingner/Elucubratus
 libunistring (libunistring) v0.9.10-1 by Unknown via Bingner/Elucubratus
 LZ4 (lz4) v1.7.5-1 by Unknown via Bingner/Elucubratus
 LZMA Utils (lzma) v2:4.32.7-2 by Unknown via Bingner/Elucubratus
+Axon (me.nepeta.axon) v1.2 by Nepeta & Baw Appie via MERONA Repository
 Cydia Substrate (mobilesubstrate) v0.9.7101 by Jay Freeman (saurik)  via Bingner/Elucubratus
 New Curses (ncurses) v6.1+20181013-1 by Unknown via Bingner/Elucubratus
 New Curses (ncurses5-libs) v5.9-1 by Unknown via Bingner/Elucubratus
@@ -118,7 +119,7 @@ unzip (unzip) v6.0+deb9u1-1 by Unknown via Bingner/Elucubratus
 wget (wget) v1.19.5-2 by Unknown via Bingner/Elucubratus
 Cephei Tweak Support (ws.hbang.common) v1.15.1 by HASHBANG Productions  via Chariz
 NewTerm (iOS 10 – 13) (ws.hbang.newterm2) v2.4 by HASHBANG Productions  via Chariz
-Zebra (xyz.willy.zebra) v1.1.9 by Wilson Styres  via Zebra
+Zebra (xyz.willy.zebra) v1.1.10 by Wilson Styres  via Zebra
 System Info (xyz.xninja.systeminfo) v2.0.0-1 by ARX8x  via BigBoss
 XZ Utils (xz) v5.2.4-4 by Unknown via Bingner/Elucubratus
 zip (zip) v2.32-1 by Unknown via Bingner/Elucubratus
